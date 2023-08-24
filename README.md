@@ -61,7 +61,7 @@ This assignment includes:
 
 ## Deployed Application
 
-https://google-book-search-cailin.herokuapp.com/
+
 
 ## MIT License
 
