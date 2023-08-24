@@ -1,5 +1,4 @@
 # 20 MERN: Book Search Engine
-[![License: MIT](https://img.shields.io/github/license/CailinBellWold/Book-Search-Engine?style=plastic)](https://opensource.org/licenses/MIT)
 
 ## Description
 
@@ -65,7 +64,6 @@ This assignment includes:
 https://google-book-search-cailin.herokuapp.com/
 
 ## MIT License
-&copy;2021 Cailin Bell Wold
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -86,5 +84,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contact
-For inquiries, please contact [Cailin Bell Wold](https://github.com/CailinBellWold).
+For inquiries, please contact [Steven Schrimmer](https://github.com/sschrimmer/searchEngine1).
 
